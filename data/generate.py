@@ -37,6 +37,6 @@ def row(i):
 
 
 random.seed(0)
-print 'idnumber,name,salary,department,join_date'
+# print 'idnumber,name,salary,department,join_date'
 for i in xrange(1, 10000):
     print row(i)
